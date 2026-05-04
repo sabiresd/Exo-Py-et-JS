@@ -1,5 +1,5 @@
 # ===== Exercice 2 =====
-note = int(input("Entrez une note sur 20 : "))
+note = 15
 if note >= 16:
     print("Résultat : Excellent")
 elif note >= 12:

@@ -1,0 +1,2 @@
+let nom = 'Sara', age = 20, ville = 'Casablanca', domaine = 'développement web';
+console.log(`Bonjour, je m'appelle ${nom}, j'ai ${age} ans, j'habite à ${ville} et je souhaite apprendre le ${domaine}.`);
